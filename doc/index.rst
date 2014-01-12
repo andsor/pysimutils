@@ -1,17 +1,19 @@
-Welcome to pysimutils's documentation!
-======================================
+Welcome to pysimutils!
+======================
 
 pysimutils is a Python package that bundles miscellaneous tools for running scientific simulations.
 
-Contents:
+Documentation
+-------------
 
 .. toctree::
    :maxdepth: 2
 
-
+   getting-started
+   about 
 
 Indices and tables
-==================
+------------------
 
 * :ref:`genindex`
 * :ref:`modindex`
