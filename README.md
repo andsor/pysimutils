@@ -5,6 +5,14 @@ Python scientific simulation utilities
 
 Author: Andreas Sorge (as@ds.mpg.de)
 
+## Documentation
+
+To build the documentation with [Sphinx](http://sphinx-doc.org), run `make -C doc html` in this directory.
+
+### Prerequisites
+
+- [Sphinx](http://sphinx-doc.org)>=1.2
+
 ## License
 
 [![GNU General Public License](http://gnu.org/graphics/gplv3-88x31.png)](http://gnu.org/licenses/gpl.html)
