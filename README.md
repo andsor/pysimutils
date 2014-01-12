@@ -3,6 +3,8 @@ pysimutils
 
 Python scientific simulation utilities
 
+Author: Andreas Sorge (as@ds.mpg.de)
+
 ## License
 
 [![GNU General Public License](http://gnu.org/graphics/gplv3-88x31.png)](http://gnu.org/licenses/gpl.html)
